@@ -1,10 +1,10 @@
 {
-  "username": "Gaël",
+  "username": "Max",
   "openweather":{
-    "apikey": "YOUR_API_KEY",
+    "apikey": "a81ba054b0b13cd030db243da8c69d95",
     "language": "en",
     "units": "metric",
-    "location": "Lausanne"
+    "location": "Santiago"
   },
   "theme": [
     {
